@@ -64,7 +64,7 @@ namespace CalculatorApp
             {  
                 Console.WriteLine("You have made an invalid selection");
             }
-        } 
+        }  
     }
 }  
 
